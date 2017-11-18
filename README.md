@@ -5,5 +5,5 @@
 Module : Functional Programming</p>
 
 <h3>Project :</h3>
-<p>It's an school exercise in order to master OCAML Language and Fonctional Programming. <br/>
+<p>It's an school exercise in order to master OCAML Language and Functional Programming. <br/>
 It's a module implementations.</p>
